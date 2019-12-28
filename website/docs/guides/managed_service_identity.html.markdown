@@ -119,7 +119,7 @@ provider "azurerm" {
 }
 ```
 
-More information on [the fields supported in the provider block can be found here](../index.html#argument-reference).
+More information on [the fields supported in the provider block can be found here](../index.html.markdown#argument-reference).
 
 <!-- it's not clear to me that we even need this info; it seems like this is the sort of thing you'd know about if you needed it.
 
